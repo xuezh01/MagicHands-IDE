@@ -1,5 +1,6 @@
 ###### ps:此图片来自网络请勿商用 
-<img src="👻/ico.png" alt="Image" width="400" height="300" > 
+<img src="![image](https://github.com/5tiaowu/MagicHands-IDE/assets/108533707/bc4bc8b4-b869-43bd-ab45-84a1b0158574)
+" alt="Image" width="400" height="300" > 
 
 # 开源万岁,免费永存！
 
