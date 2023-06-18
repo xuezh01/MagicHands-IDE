@@ -1,4 +1,4 @@
-###### ps:此图片来自网络请勿商用 
+###### ps:图标来自网络请勿商用 
 <img src="https://github.com/5tiaowu/MagicHands-IDE/assets/108533707/bc4bc8b4-b869-43bd-ab45-84a1b0158574" alt="Image" width="800" height="500" > 
 
 # 开源万岁,免费永存！
